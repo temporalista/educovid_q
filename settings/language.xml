@@ -45,7 +45,7 @@
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Paso 1</item>
-        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo o no. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar las teclas 1, 2 y 3.</item>
+        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo o no. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar en su teclado las teclas 1, 2 y 3.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2</item>
