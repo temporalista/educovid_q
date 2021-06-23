@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <config version="1.0" htmlParse="false">
+
+     <!-- title of the study -->
+     <item id="studyTitle">educovid_q</item>
+
+     <!-- text-align property(left|right) -->
+     <item id="textAlign">left</item>
+
+     <!-- shuffle cards (true|false) (4) -->
+     <item id="shuffleCards">true</item>
+
+     <!-- access code required (true|false) (5) -->
+     <item id="loginrequired">false</item>
+     <item id="clearCachePassword">cleareqmobilecache</item>
+     <!-- login with common password (leave blank if not required) -->
+     <item id="loginPassword"></item>
+    <item id="partNameRequired"></item>
+      <!-- Use login script -->
+     <item id="useLogInScript">false</item>
+      <!-- URL to individual login script(leave blank if not required) -->
+     <item id="loginUrl"></item>
+     <!-- request mode (post|get) -->
+     <item id="loginUrlMethod"></item>
+
+     <item id="setConstantCardHeight">false</item>
+     <item id="constantCardHeight">120</item>
+     <item id="setConstantCardWidth">false</item>
+     <item id="constantCardWidth">200</item>
+     <!-- activate/deactivate optional steps (true|false) -->
+     <item id="showStep3">false</item>
+     <item id="showStep4">true</item>
+     <item id="showStep5">true</item>
+
+     <!-- HtmlQ only: disable the in-window back button -->
+     <item id="disableBackButton">true</item>
+
+     <!-- define form elements for step5; only displayed if showStep5 is true (delete tags if not required) -->
+     <!-- add label: <label>[STRING]</label> -->
+     <!-- add note: <note>[STRING]</note> -->
+     <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
+     <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
+     <item id="form">
+	    <label>Edad*</label>
+	<note>Por favor escriba su edad (ej: 23).</note>
+	<input type="text" required="true" maxlength="4" restricted="0-9"></input>
+
+    <label>Género</label>
+	<note>Por favor indique su género.</note>
+	<input type="radio" required="true">Femenino;Masculino;No binario; prefiero no decirlo</input>
+	
+    <label>Actividad educativa...</label>
+	<note>Por favor indique su ocupación principal.</note>
+	<input type="radio" required="true">Profesor(a);Estudiante;Otro tipo de trabajo o empleo; Actualmente sin empleo</input>	
+
+    <label>Nivel de actividad educativa</label>
+	<note>En caso que sea profesor(a) o estudiante indique en qué nivel.</note>
+	<input type="radio" required="false">Inicial (Preprimaria);Básica(Primaria);Bachillerato(Secundaria); Superior (Universidad o postgado); Ninguno de los anteriores</input>
+	
+	
+    <label>Por favor complete las siguientes preguntas.</label>
+	<input type="rating2" required="true" scale="Sí;No;">¿Tiene usted hijos en edad escolar (entre 4 y 18 años)?</input>
+	<input type="rating2" required="true" scale="Sí;No;">¿En su hogar dispone de auto particular?</input>
+
+    <label>Cual es su principal modo de transportarse?</label>
+	<input type="radio" required="true">Auto particular;Moto;Transporte público;Caminando;Bicicleta;Otro</input>
+
+
+    <label>Si desea, puede dejar un comentario adicional</label>
+	<input type="textarea" required="false"></input>
+
+    <label>Si desea recibir un correo con los resultados del estudio, escriba su dirección de correo electrónico (será completamente confidencial y no se relacionará con sus respuestas)</label>
+	<input type="text" required="false"></input>
+	
+	
+    <note bg="false">Todas las preguntas con un asterisco (*) son obligatorias.</note>
+     </item>
+
+     <!-- URL for data transmission via POST/GET (leave blank if not required) -->
+     <item id="submitUrl">exe.php?do=save</item>
+  
+     <!-- request mode (post|get|firebase) -->
+     <item id="submitUrlMethod">firebase</item>
+  
+     <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
+     <item id="submitMail">llactalab@ucuenca.edu.ec</item>
+   </config>

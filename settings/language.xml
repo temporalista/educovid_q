@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <language version="1.0" htmlParse="true">
+;
+
+        <!-- misc -->
+        <item id="btnContinue">Continuar</item>
+        <item id="btnclose">Cerrar</item>
+        <item id="btnHelp">Ayuda</item>
+        <item id="btnAgreement">Acuerdo</item>
+        <item id="btnNeutral">Neutral</item>
+        <item id="btnDisagreement">Desacuerdo</item>
+        <item id="btnTransfer">Enviar</item>
+        <item id="btnExit">Salir</item>
+        <item id="selectItem">Seleccionar</item>
+        
+        <!-- Warning when user is trying to leave the page (this item was added for HtmlQ) -->
+        <item id="leaveSiteWarning">Sus datos se perderán</item>
+
+        <!-- HtmlQ only: In-App Back Button -->
+        <item id="backButton">Regresar</item>
+        <item id="fillInRequiredFields">Por favor complete todos los datos</item>
+
+        <!-- errors -->
+        <item id="errorHead">Error!</item>
+        <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
+
+
+        <!-- welcome screen (leave blank to skip screen) -->
+        <item id="welcomeHead">Bienvenid@ al Experimento Q: Educación y COVID-19</item>
+        <item id="welcomeText">Este experimento se basa en el Método Q para explorar las percepciones sobre las clases presenciales y la pandemia de COVID-19.{br}{br}{b} Importante{/b}: Para este ejercicio necesitará todo el espacio posible en su pantalla! De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento. {br}{br} Toda la información es anónima y no se recogen datos personales. Si desea más información puede escribirnos a {a href="mailto:llactalab@ucuenca.edu.ec" target="_blank"}{u}llactalab@ucuenca.edu.ec{/u}{/a}</item>
+
+        <!-- user login, only displayed if access is restricted (see config-file) -->
+        <item id="loginHead">Código de Acceso</item>
+        <item id="loginText">Por favor ingrese el código del estudio</item>
+        <item id="loginFormHeader">Codigo de Acceso</item>
+        <item id="loginPartIdText">Su nombre o ID</item>
+        <item id="loginNoInput">Ingrese el código de acceso</item>
+        <item id="loginInvalidInput">Código inválido</item>
+        <item id="loginNoConnection">Fallo de conexión :,( Por favor intente otra vez.</item>
+
+        <!-- introduction (leave blank to skip popup) -->
+        <item id="introHead">Introducción</item>
+        <item id="introText">Usted organizará en dos pasos un grupo de frases en función de su nivel de acuerdo. El experimento toma aproximadamente 7 minutos.</item>
+
+        <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
+        <item id="step1Head">Paso 1</item>
+        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo o no. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar las teclas 1, 2 y 3.</item>
+
+        <!-- step2: sorting (leave blank to skip popup) -->
+        <item id="step2Head">Paso 2</item>
+        <item id="step2Text"> En este paso usted priorizará las frases del paso anterior según su nivel de acuerdo usando los espacios de la pirámide. Los extremos izquierdo y derecho representan los niveles más altos de acuerdo o desacuerdo, mientras que los espacios más centrales representan mayor neutralidad. Los colores son solamente orientativos y durante la priorización usted deberá contrastar unas frases con otras para determinar su posición.{br}{br}
+		Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. Finalmente organice las tarjetas del grupo "Neutral" en los espacios de las columnas centrales.{br}{br}
+		Recuerde que usted puede cambiar las tarjetas a cualquier espacio de la pirámide y no requieren estar en una columna determinada siempre y ciando reflejen su nivel de acuerdo.</item>
+        <item id="step2CondOfInstruc">Nivel de Acuerdo</item>
+        <item id="step2TextSizeLabel">Text</item>
+        
+
+        <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
+        <item id="step3Head">¡Perfecto!</item>
+        <item id="step3Text">Revise la distribución por última vez y si desea puede aún hacer cambios arrastrando las tarjetas con el ratón. Antes de enviar, se recomienda hacer una captura de pantalla de su resultado y guardar el archivo.</item>
+        <item id="step3CondOfInstruc">Nivel de Acuerdo</item>
+
+        <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
+        <item id="step4Head">¡Excelente!</item>
+        <item id="step4Text">Estas son las frases con las que tuvo mayo acuerdo o desacuerdo. Para finalizar, por favor explique muy brevemente la razón por la que está de acuerdo (o en desacuerdo).</item>
+
+        <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
+        <item id="step5Head">Muchas gracias por su colaboración</item>
+        <item id="step5Text">Por favor cuéntenos un poco más acerca de usted para comprender mejor y comprar sus respuestas. Recuerde que esta información no incluye datos personales y es completamente anónima</item>
+
+        <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
+        <item id="transferHead">Enviar los datos</item>
+        <item id="transferText">Usted ha terminado el experimento, por favor envíe sus datos</item>
+        <item id="transferFailed">El envío a fallado! por favor intente otra vez</item>
+        <item id="transferOk">¡Gracias por participar! Sus respuestas son muy útiles para estudiar la relación entre las preferencias de lugar de residencia y movilidad. Si desea, puede revisar los {a href="http://dx.doi.org/10.13140/RG.2.2.25089.38245" target="_blank"}{u}resultados{/u}{/a} de un experimento anterior.{br}{br} Le invitamos a compartir este experimento con más personas copiando y enviando este enlace: {b} https://temporalista.github.io/demo_qmethod {/b} {br}{br} Ya puede cerrar esta ventana.</item>   
+   </language>
