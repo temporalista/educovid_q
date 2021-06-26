@@ -63,7 +63,7 @@
 	<input type="rating2" required="true" scale="Sí;No;">¿Tiene usted hijos en edad escolar (entre 4 y 18 años)?</input>
 	<input type="rating2" required="true" scale="Sí;No;">¿En su hogar dispone de auto particular?</input>
 
-    <label>Cual es su principal modo de transportarse?</label>
+    <label>¿Cuál es su principal modo de transportarse?</label>
 	<input type="radio" required="true">Auto particular;Moto;Transporte público;Caminando;Bicicleta;Otro</input>
 
 
