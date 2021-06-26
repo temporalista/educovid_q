@@ -15,7 +15,7 @@
      <item id="loginrequired">false</item>
      <item id="clearCachePassword">cleareqmobilecache</item>
      <!-- login with common password (leave blank if not required) -->
-     <item id="loginPassword"></item>
+     <item id="loginPassword">	</item>
     <item id="partNameRequired"></item>
       <!-- Use login script -->
      <item id="useLogInScript">false</item>
@@ -56,7 +56,7 @@
 
     <label>Nivel de actividad educativa</label>
 	<note>En caso que sea profesor(a) o estudiante indique en qué nivel.</note>
-	<input type="radio" required="false">Inicial (Preprimaria);Básica(Primaria);Bachillerato(Secundaria); Superior (Universidad o postgado); Ninguno de los anteriores</input>
+	<input type="radio" required="false">Inicial (Preprimaria);Básica (Primaria);Bachillerato (Secundaria); Superior (Universidad o postgado); Ninguno de los anteriores</input>
 	
 	
     <label>Por favor complete las siguientes preguntas.</label>

@@ -23,12 +23,18 @@
 
         <!-- errors -->
         <item id="errorHead">Error!</item>
-        <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
+        <item id="errorWindowTooSmall">Por favor maximice la ventana de su navegador en una computadora para utilizar esta aplicación.</item>
 
 
         <!-- welcome screen (leave blank to skip screen) -->
-        <item id="welcomeHead">Bienvenid@ al Experimento Q: Educación y COVID-19</item>
-        <item id="welcomeText">Este experimento se basa en el Método Q para explorar las percepciones sobre las clases presenciales y la pandemia de COVID-19.{br}{br}{b} Importante{/b}: Para este ejercicio necesitará todo el espacio posible en su pantalla! De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento. {br}{br} Toda la información es anónima y no se recogen datos personales. Si desea más información puede escribirnos a {a href="mailto:llactalab@ucuenca.edu.ec" target="_blank"}{u}llactalab@ucuenca.edu.ec{/u}{/a}</item>
+        <item id="welcomeHead">Retorno a las Aulas: Percepciones y Perspectivas</item>
+        <item id="welcomeText">Entraremos en una nueva etapa para un retorno progresivo, responsable y organizado a las actividades académicas, que combine la modalidad presencial con la virtual, garantizando las mejores condicioens para la salud de la comunidad universitaria y la calidad de la educación. En este contexto, necesitamos establecer los diferentes puntos de vista y perspectivas de los miembros de la Universidad sobre las actividades educativas presenciales. {br}{br} 
+		
+		Hemos diseñado este ejercicio para permitir encontrar estas persepectivas y necesitamos de su colaboración participando en este ejercicio. La técnica que utilizamos está basada en el {b}Método Q{/b}, por lo que es algo diferente a una encuesta o cuestionario. Por favor lea cuidadosamente las instrucciones que aparecerán en pantalla. El ejercicio toma aproximadamente 10 minutos. {br}{br}
+		
+		{b} Importante{/b}: Esta aplicación está optimizada para pantallas de computadora. Aunque es posible responder en el celular, ser recomienda abrirlo en un navegador de escritorio. De ser necesario, vuelva a abrir el link en una computadora y maximice la ventana de su navegador. {br}{br}
+		
+		Haga click en "Continuar" para comenzar el ejercicio. {br}{br} Toda la información es anónima y no se recogen datos personales. Si desea más información puede {a href="mailto:llactalab@ucuenca.edu.ec" target="_blank"}{u}enviarnos un correo{/u}{/a}</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
         <item id="loginHead">Código de Acceso</item>
@@ -41,17 +47,17 @@
 
         <!-- introduction (leave blank to skip popup) -->
         <item id="introHead">Introducción</item>
-        <item id="introText">Usted organizará en dos pasos un grupo de frases en función de su nivel de acuerdo. El experimento toma aproximadamente 7 minutos.</item>
+        <item id="introText">El ejercicio tiene dos pasos. En el primero usted agrupará tarjetas con frases según si está de acuerdo o no. En el segundo paso, las organizará de forma más estructurada.</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Paso 1</item>
-        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo o no. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar en su teclado las teclas 1, 2 y 3.</item>
+        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo, en desacuerdo o es neutral. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión y organizarlo con más detalle). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar en su teclado las teclas 1, 2 y 3.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2</item>
         <item id="step2Text"> En este paso usted priorizará las frases del paso anterior según su nivel de acuerdo usando los espacios de la pirámide. Los extremos izquierdo y derecho representan los niveles más altos de acuerdo o desacuerdo, mientras que los espacios más centrales representan mayor neutralidad. Los colores son solamente orientativos y durante la priorización usted deberá contrastar unas frases con otras para determinar su posición.{br}{br}
 		Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. Finalmente organice las tarjetas del grupo "Neutral" en los espacios de las columnas centrales.{br}{br}
-		Recuerde que usted puede cambiar las tarjetas a cualquier espacio de la pirámide y no requieren estar en una columna determinada siempre y ciando reflejen su nivel de acuerdo.</item>
+		Recuerde que usted puede cambiar las tarjetas a cualquier espacio de la pirámide y no requieren estar en una columna determinada siempre y cuando reflejen su nivel de acuerdo.</item>
         <item id="step2CondOfInstruc">Nivel de Acuerdo</item>
         <item id="step2TextSizeLabel">Text</item>
         
@@ -67,7 +73,7 @@
 
         <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
         <item id="step5Head">Muchas gracias por su colaboración</item>
-        <item id="step5Text">Por favor cuéntenos un poco más acerca de usted para comprender mejor y comprar sus respuestas. Recuerde que esta información no incluye datos personales y es completamente anónima</item>
+        <item id="step5Text">Por favor cuéntenos un poco más acerca de usted para comprender mejor y comparar sus respuestas. Recuerde que esta información no incluye datos personales y es completamente anónima</item>
 
         <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
         <item id="transferHead">Enviar los datos</item>
