@@ -52,29 +52,27 @@
 	<input id="rol" type="radio" required="true">Docente;Estudiante;Administrativo; Otro</input>	
 
     <label>Facultad o Unidad Académica</label>
-	<input id="fac" type="text" required="false"></input>
+	<input id="facultad" type="text" required="false"></input>
 	
 	
     <!-- <label>Por favor complete las siguientes preguntas.</label>-->
 	<label>¿Tiene usted hijos en edad escolar (entre 4 y 18 años)?</label>
 	<input id="hijos" type="radio" required="true">Sí;No</input>
 	
-	<label>¿En su hogar dispone de auto particular?</label>	
+	<label>¿En su hogar dispone de auto?</label>	
 	<input id="auto" type="radio" required="true">Sí;No</input>
 
     <!-- <label>¿Cuál es su principal modo de transportarse?</label>-->
 	<label>¿Cuál es su principal modo de movilización?</label>	
-	<input id=modo" type="radio" required="true">Auto particular;Moto;Transporte público;Caminando;Bicicleta;Taxi;Otro</input>
+	<input id="modo" type="radio" required="true">Auto particular;Moto;Transporte público;Caminando;Bicicleta;Taxi;Otro</input>
 
 
     <label>Si desea, puede dejar un comentario adicional</label>
-	<input type="textarea" required="false"></input>
+	<input id="comentario" type="textarea" required="false"></input>
 
     <note>Si desea recibir un correo con los resultados del estudio, escriba su dirección de correo electrónico (será completamente confidencial y no se relacionará con sus respuestas)</note>
-	<input type="text" required="false"></input>
+	<input id="correo" type="text" required="false"></input>
 	
-	
-    <note bg="false">Todas las preguntas con un asterisco (*) son obligatorias.</note>
      </item>
 
      <!-- URL for data transmission via POST/GET (leave blank if not required) -->
