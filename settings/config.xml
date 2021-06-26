@@ -42,35 +42,35 @@
      <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
      <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
      <item id="form">
-	    <label>Edad*</label>
-	<note>Por favor escriba su edad (ej: 23).</note>
-	<input type="text" required="true" maxlength="4" restricted="0-9"></input>
+	<label>Edad</label>
+	<input id="edad" type="text" required="true" maxlength="4" restricted="0-9"></input>
 
-    <label>Género</label>
-	<note>Por favor indique su género.</note>
-	<input type="radio" required="true">Femenino;Masculino;No binario; prefiero no decirlo</input>
+	<label>Género</label>
+	<input id="genero" type="radio" required="true">Femenino;Masculino;No binario; Prefiero no decirlo</input>
 	
-    <label>Actividad educativa...</label>
-	<note>Por favor indique su ocupación principal.</note>
-	<input type="radio" required="true">Profesor(a);Estudiante;Otro tipo de trabajo o empleo; Actualmente sin empleo</input>	
+	<label>Rol principal en la Universidad</label>
+	<input id="rol" type="radio" required="true">Docente;Estudiante;Administrativo; Otro</input>	
 
-    <label>Nivel de actividad educativa</label>
-	<note>En caso que sea profesor(a) o estudiante indique en qué nivel.</note>
-	<input type="radio" required="false">Inicial (Preprimaria);Básica (Primaria);Bachillerato (Secundaria); Superior (Universidad o postgado); Ninguno de los anteriores</input>
+    <label>Facultad o Unidad Académica</label>
+	<input id="fac" type="text" required="false"></input>
 	
 	
-    <label>Por favor complete las siguientes preguntas.</label>
-	<input type="rating2" required="true" scale="Sí;No;">¿Tiene usted hijos en edad escolar (entre 4 y 18 años)?</input>
-	<input type="rating2" required="true" scale="Sí;No;">¿En su hogar dispone de auto particular?</input>
+    <!-- <label>Por favor complete las siguientes preguntas.</label>-->
+	<label>¿Tiene usted hijos en edad escolar (entre 4 y 18 años)?</label>
+	<input id="hijos" type="radio" required="true">Sí;No</input>
+	
+	<label>¿En su hogar dispone de auto particular?</label>	
+	<input id="auto" type="radio" required="true">Sí;No</input>
 
-    <label>¿Cuál es su principal modo de transportarse?</label>
-	<input type="radio" required="true">Auto particular;Moto;Transporte público;Caminando;Bicicleta;Otro</input>
+    <!-- <label>¿Cuál es su principal modo de transportarse?</label>-->
+	<label>¿Cuál es su principal modo de movilización?</label>	
+	<input id=modo" type="radio" required="true">Auto particular;Moto;Transporte público;Caminando;Bicicleta;Taxi;Otro</input>
 
 
     <label>Si desea, puede dejar un comentario adicional</label>
 	<input type="textarea" required="false"></input>
 
-    <label>Si desea recibir un correo con los resultados del estudio, escriba su dirección de correo electrónico (será completamente confidencial y no se relacionará con sus respuestas)</label>
+    <note>Si desea recibir un correo con los resultados del estudio, escriba su dirección de correo electrónico (será completamente confidencial y no se relacionará con sus respuestas)</note>
 	<input type="text" required="false"></input>
 	
 	
