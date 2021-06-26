@@ -79,5 +79,5 @@
         <item id="transferHead">Enviar los datos</item>
         <item id="transferText">Usted ha terminado el experimento, por favor envíe sus datos</item>
         <item id="transferFailed">El envío a fallado! por favor intente otra vez</item>
-        <item id="transferOk">¡Gracias por participar! Sus respuestas son muy útiles para estudiar la relación entre las preferencias de lugar de residencia y movilidad. Si desea, puede revisar los {a href="http://dx.doi.org/10.13140/RG.2.2.25089.38245" target="_blank"}{u}resultados{/u}{/a} de un experimento anterior.{br}{br} Le invitamos a compartir este experimento con más personas copiando y enviando este enlace: {b} https://temporalista.github.io/demo_qmethod {/b} {br}{br} Ya puede cerrar esta ventana.</item>   
+        <item id="transferOk">¡Gracias por participar! Sus respuestas son muy útiles para continuar la planificación de la nueva etapa que combinará actividades presenciales y virtuales. {br}{br} Ya puede cerrar esta ventana.</item>   
    </language>
