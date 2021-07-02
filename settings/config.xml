@@ -3,7 +3,7 @@
    <config version="1.0" htmlParse="false">
 
      <!-- title of the study -->
-     <item id="studyTitle">educovid_q</item>
+     <item id="studyTitle">educovid_uc</item>
 
      <!-- text-align property(left|right) -->
      <item id="textAlign">left</item>
