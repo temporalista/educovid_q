@@ -28,9 +28,9 @@
 
         <!-- welcome screen (leave blank to skip screen) -->
         <item id="welcomeHead">Retorno a las Aulas: Percepciones y Perspectivas</item>
-        <item id="welcomeText">En la Universidad de Cuenca entraremos en una nueva etapa para un retorno progresivo, responsable y organizado a las actividades académicas, que combine la modalidad presencial con la virtual, garantizando las mejores condicioens para la salud de la comunidad universitaria y la calidad de la educación. En este contexto, necesitamos establecer los diferentes puntos de vista y perspectivas de los miembros de la Universidad sobre las actividades educativas presenciales mientras dure la pandemia de COVID-19. {br}{br} 
+        <item id="welcomeText">En la Universidad de Cuenca entraremos en una nueva etapa para un retorno progresivo, responsable y organizado a las actividades académicas, que combine la modalidad presencial con la virtual, garantizando las mejores condiciones para la salud de la comunidad universitaria y la calidad de la educación. En este contexto, necesitamos establecer los diferentes puntos de vista y perspectivas de los miembros de la Universidad sobre las actividades educativas presenciales mientras dure la pandemia de COVID-19. {br}{br} 
 		
-		Hemos diseñado este ejercicio para permitir encontrar estas persepectivas y necesitamos de su colaboración participando en este ejercicio. La técnica que utilizamos está basada en el {b}Método Q{/b}, por lo que es algo diferente a una encuesta o cuestionario. Por favor lea cuidadosamente las instrucciones que aparecerán en pantalla. El ejercicio toma aproximadamente 10 minutos. {br}{br}
+		Hemos diseñado este ejercicio para encontrar estas perspectivas y necesitamos de su colaboración y participación. La técnica que utilizamos está basada en el {b}Método Q{/b}, que es algo diferente a una encuesta o cuestionario. Por favor lea cuidadosamente las instrucciones que aparecerán en pantalla. El ejercicio toma aproximadamente 10 minutos. {br}{br}
 		
 		{b} Importante{/b}: Esta aplicación está optimizada para pantallas de computadora. Aunque es posible responder en el celular, ser recomienda abrirlo en un navegador de escritorio. De ser necesario, vuelva a abrir el link en una computadora y maximice la ventana de su navegador. {br}{br}
 		
@@ -56,7 +56,7 @@
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2</item>
         <item id="step2Text"> En este paso usted priorizará las frases del paso anterior según su nivel de acuerdo usando los espacios de la pirámide.{br}{br}
-		Primero tome las tarjetas del grupo {b}"Acuerdo"{/b} y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo {b}"Desacuerdo"{/b} y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. Finalmente organice las tarjetas del grupo {b}"Neutral"{/b} en los espacios de las columnas centrales. {br}{br}
+		Primero tome las tarjetas del grupo {b}"Acuerdo"{/b} y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo {b}"Desacuerdo"{/b} y organícelas en la parte izquierda (las de mayor desacuerdo colóquelas más a la izquierda. Finalmente organice las tarjetas del grupo {b}"Neutral"{/b} en los espacios de las columnas centrales. {br}{br}
 		Es probable que necesite mover las tarjetas entre columnas para poder acomodarlas en los espacios disponbiles. Los colores son solamente orientativos y durante la priorización usted deberá contrastar unas frases con otras para determinar su posición. Lo importante es que la posición final refleje su nivel de acuerdo.</item>
         <item id="step2CondOfInstruc">Organice las tarjetas según su nivel de acuerdo</item>
         <item id="step2TextSizeLabel">Text</item>
