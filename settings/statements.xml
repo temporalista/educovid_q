@@ -5,10 +5,10 @@
      <statement id="2">Con las medidas adecuadas, regresar a clases presenciales no implica un mayor riesgo de contagio.</statement>
      <statement id="3">La modalidad de clases en línea ha disminuido muchísimo la calidad del aprendizaje.</statement>
      <statement id="4">No es necesario regresar a clases presenciales, es mejor mantener y mejorar las clases en línea.</statement>
-     <statement id="5">Hoy en día hay técnicas para clases en línea que son más efectivas que las clases presenciales.</statement>
+     <statement id="5">Los docentes y estudiantes han adquirido ya las capacidades para la educación en línea.</statement>
      <statement id="6">La modalidad de educación en línea es más permisiva y disminuye el nivel de responsabilidad.</statement>
      <statement id="7">El riesgo de contagio de COVID-19 es ahora mayor que hace unos meses.</statement>
-     <statement id="8">Aún no estamos preparados para regresar a clases presenciales.</statement>
+     <statement id="8">No estamos aún preparados para regresar a clases presenciales.</statement>
      <statement id="9">El regreso a clases presenciales me representará muchas complicaciones.</statement>
      <statement id="10">Hay algunas asignaturas que tienen que ser presenciales y otras que se pueden dictar en línea.</statement>
      <statement id="11">La modalidad de clases en línea ha sido una oportunidad para explorar otras formas de enseñanza y aprendizaje.</statement>
@@ -17,7 +17,7 @@
      <statement id="14">Se debe cambiar la lógica de la educación centrada en el aula y tener más actividades en otros espacios.</statement>
      <statement id="15">Las clases presenciales son cosa del pasado, ya no deberían volverse a considerar.</statement>
      <statement id="16">La falta de acceso a una buena computadora y conexión rápida a internet ha afectado mis actividades de enseñanza y aprendizaje.</statement>
-     <statement id="17">La educación en línea facilitó mucho el día a día ya que no requiere desplazamiento.</statement>
+     <statement id="17">La educación en línea facilitó mucho el día a día, pues que no requiere desplazamiento.</statement>
      <statement id="18">Al regresar a clases presenciales evitaré usar el transporte público por temor al contagio.</statement>
      <statement id="19">Cuando regrese a clases presenciales preferiría trasladarme a pie.</statement>
      <statement id="20">Al regresear a clases presenciales preferiría desplazarme en bicicleta.</statement>
@@ -26,4 +26,8 @@
      <statement id="23">Lo peor de la educación en línea ha sido la falta de interacción y compañerismo que había en la Universidad.</statement>
      <statement id="24">El regreso a clases presenciales me causa ansiedad y preocupación.</statement>
      <statement id="25">Tengo muchas ganas de regresar a clases presenciales.</statement>
+	 <statement id="26">El mayor riesgo de contagio al regresar a clases estará en las aulas llenas.</statement>
+	 <statement id="27">El mayor riesgo de contagio al regresar a clases estará durante la movilización hacia la Universidad.</statement>
+	 <statement id="28">El riesgo de contagio es más alto en reuniones sociales que en los campus universitarios.</statement>
+	 <statement id="29">La vacunación es lo único que permitirá regresar a clases de forma segura</statement>
    </statements>

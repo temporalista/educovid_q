@@ -29,7 +29,7 @@
      <item id="setConstantCardWidth">false</item>
      <item id="constantCardWidth">200</item>
      <!-- activate/deactivate optional steps (true|false) -->
-     <item id="showStep3">false</item>
+     <item id="showStep3">true</item>
      <item id="showStep4">true</item>
      <item id="showStep5">true</item>
 
@@ -64,7 +64,11 @@
 
     <!-- <label>¿Cuál es su principal modo de transportarse?</label>-->
 	<label>¿Cuál es su principal modo de movilización?</label>	
-	<input id="modo" type="radio" required="true">Auto particular;Moto;Transporte público;Caminando;Bicicleta;Taxi;Otro</input>
+	<input id="modo" type="radio" required="true">Transporte público;A pie;Bicicleta;Taxi;Auto particular;Moto;Otro</input>
+
+  <!-- <label>¿Cuál es su principal modo de transportarse?</label>-->
+	<label>¿Donde reside actualmente?</label>	
+	<input id="reside" type="radio" required="true">En la ciudad de Cuenca;En la zona rural del cantón Cuenca;En otro cantón del Azuay;En otra provincia</input>
 
 
     <label>Si desea, puede dejar un comentario adicional</label>

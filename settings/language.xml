@@ -47,25 +47,25 @@
 
         <!-- introduction (leave blank to skip popup) -->
         <item id="introHead">Introducción</item>
-        <item id="introText">El ejercicio tiene dos pasos. En el primero usted agrupará tarjetas con frases según si está de acuerdo o no. En el segundo paso, las organizará de forma más estructurada.</item>
+        <item id="introText">El ejercicio tiene dos pasos. En el primero usted agrupará tarjetas con frases en tres grupos según si está de acuerdo o no. En el segundo paso, las organizará mas detalladamente en una plantilla piramidal.</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Paso 1</item>
-        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo, en desacuerdo o es neutral. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión y organizarlo con más detalle). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar en su teclado las teclas 1, 2 y 3.</item>
+        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo, en desacuerdo o es neutral. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión y organizar con más detalle). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar en su teclado las teclas 1, 2 y 3.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2</item>
-        <item id="step2Text"> En este paso usted priorizará las frases del paso anterior según su nivel de acuerdo usando los espacios de la pirámide. Los extremos izquierdo y derecho representan los niveles más altos de acuerdo o desacuerdo, mientras que los espacios más centrales representan mayor neutralidad. Los colores son solamente orientativos y durante la priorización usted deberá contrastar unas frases con otras para determinar su posición.{br}{br}
-		Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. Finalmente organice las tarjetas del grupo "Neutral" en los espacios de las columnas centrales.{br}{br}
-		Recuerde que usted puede cambiar las tarjetas a cualquier espacio de la pirámide y no requieren estar en una columna determinada siempre y cuando reflejen su nivel de acuerdo.</item>
-        <item id="step2CondOfInstruc">Nivel de Acuerdo</item>
+        <item id="step2Text"> En este paso usted priorizará las frases del paso anterior según su nivel de acuerdo usando los espacios de la pirámide.{br}{br}
+		Primero tome las tarjetas del grupo {b}"Acuerdo"{/b} y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo {b}"Desacuerdo"{/b} y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. Finalmente organice las tarjetas del grupo {b}"Neutral"{/b} en los espacios de las columnas centrales. {br}{br}
+		Es probable que necesite mover las tarjetas entre columnas para poder acomodarlas en los espacios disponbiles. Los colores son solamente orientativos y durante la priorización usted deberá contrastar unas frases con otras para determinar su posición. Lo importante es que la posición final refleje su nivel de acuerdo.</item>
+        <item id="step2CondOfInstruc">Organice las tarjetas según su nivel de acuerdo</item>
         <item id="step2TextSizeLabel">Text</item>
         
 
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
         <item id="step3Head">¡Perfecto!</item>
-        <item id="step3Text">Revise la distribución por última vez y si desea puede aún hacer cambios arrastrando las tarjetas con el ratón. Antes de enviar, se recomienda hacer una captura de pantalla de su resultado y guardar el archivo.</item>
-        <item id="step3CondOfInstruc">Nivel de Acuerdo</item>
+        <item id="step3Text">Revise la distribución por última vez y si desea puede intercambiar posiciones arrastrando las tarjetas con el ratón. Antes de enviar, se recomienda hacer una captura de pantalla de su resultado y guardar el archivo para su propia referencia.</item>
+        <item id="step3CondOfInstruc">Revise distribución y haga cualquier ajuste final</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
         <item id="step4Head">¡Excelente!</item>
