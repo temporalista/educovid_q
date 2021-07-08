@@ -1,26 +1,29 @@
-﻿Regresar a clases presenciales representa un alto riesgo de contagio
-Es posible tener clases presenciales de forma segura si se implementan las medidas adecuadas
-La modalidad de clases en línea ha disminuido muchísimo la calidad del aprendizaje
-Es urgente regresar a las clases presenciales para garantizar la calidad de la educación
-Hoy en día hay técnicas para clases en línea que son más efectivas que las clases presenciales
-El riesgo de contagio de COVID-19 es mucho menor que antes
-El riesgo de contagio de COVID-19 es muy alto en la actualidad
-Aún no estamos preparados para regresar a clases presenciales
-Es imprescindible implementar estrategias efectivas para pode regresar a clases presenciales
-Hay algunas asignaturas que tienen que ser presenciales y otras que se pueden dictar en línea
-La modalidad de clases en línea ha sido una oportunidad para explorar otras formas de aprendizaje
-Las clases en línea son el futuro y requieren que los profesores se siguan formando en éstos métodos
-La educación en línea bien organizada puede ser mucho mejor que la educación presencial
-Se debe cambiar la lógica de la educación centrada en el aula y tener más actividades en otros espacios
-Sería ideal combinar las clases presenciales con clases en línea
-Muchos estudiantes y profesores no tienen acceso a computadora e internet de calidad para poder mantener la educación en línea
-La educación en línea facilitó mucho el día al día ya que no requiere desplazamiento
-Al regresar a clases presenciales evitaré usar el transporte público por temor al contagio
-Al regresear a clases presenciales preferiría desplazarme a pie
-Al regresear a clases presenciales preferiría desplazarme en bicicleta
-Cuando se reinicien las clases presenciales lo más probable es que me traslade en transporte público
-Cuando se reinicien las clases presenciales lo más probable es que me traslade en mi propio auto
-Lo peor de la educación en línea ha sido la falta de interacción y compañerismo que había en la Universidad
-El regreso a clases presenciales me causa ansiedad e incertidumbre
-Tengo muchas ganas de regresar a clases presenciales
-
+﻿1 Regresar a clases presenciales representa un alto riesgo de contagio.
+2 Con las medidas adecuadas, es posible reducir mucho el riesgo de contagio en clases presenciales.
+3 La modalidad de clases en línea ha disminuido muchísimo la calidad del aprendizaje.
+4 No es necesario regresar a clases presenciales, es mejor mantener y mejorar las clases en línea.
+5 Los docentes y estudiantes han desarrollado buenas capacidades para la educación en línea.
+6 La modalidad de educación en línea es más permisiva y disminuye el nivel de responsabilidad.
+7 El riesgo de contagio de COVID-19 es ahora mayor que hace unos meses.
+8 Estamos ya preparados para regresar a clases presenciales.
+9 El regreso a clases presenciales me representará muchas complicaciones personales.
+10 Hay algunas asignaturas que tienen que ser presenciales y otras que se pueden dictar en línea.
+11 La modalidad de clases en línea ha sido una oportunidad para explorar otras formas de enseñanza y aprendizaje.
+12 Es imprescindible regresar a clases presenciales cuanto antes.
+13 La educación en línea ha sido mejor que la educación presencial.
+14 Se debe cambiar la lógica de la educación centrada en el aula y tener más actividades en otros espacios.
+15 Las clases presenciales son cosa del pasado, ya no deberían volverse a considerar.
+16 La falta de acceso a una buena computadora y conexión rápida a internet ha afectado mis actividades de enseñanza y aprendizaje.
+17 La educación en línea facilitó mucho el día a día, pues que no requiere desplazamiento.
+18 Al regresar a clases presenciales evitaré usar el transporte público por temor al contagio.
+19 Cuando regrese a clases presenciales preferiría trasladarme a pie.
+20 Al regresear a clases presenciales preferiría desplazarme en bicicleta.
+21 Cuando se reinicien las clases presenciales lo más probable es que me traslade en transporte público.
+22 Cuando se reinicien las clases presenciales lo más probable es que me traslade en mi propio auto.
+23 Lo peor de la educación en línea ha sido la falta de interacción y compañerismo que había en la Universidad.
+24 El regreso a clases presenciales me causa ansiedad y preocupación.
+25 Tengo muchas ganas de regresar a clases presenciales.
+26 El mayor riesgo de contagio al regresar a clases estará en las aulas llenas.
+27 El mayor riesgo de contagio al regresar a clases estará durante la movilización hacia la Universidad.
+28 El riesgo de contagio es más alto en reuniones sociales que en los campus universitarios.
+29 La vacunación es lo único que permitirá regresar a clases de forma segura
